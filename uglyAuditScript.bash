@@ -1,5 +1,4 @@
 # !/bin/bash
-# uas.sh version 1.6 - (10 oct 2018)
 # The Ugly Audit Script is maintained by agiannin@akamai.com - +33622777086
 
 # This script has to be used with a hostname list you can get from https://control.akamai.com/cmportal/quickstart.jsp
