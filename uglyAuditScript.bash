@@ -28,7 +28,7 @@ run()
     # Creating the result file and clearing the screen
 
         touch $RESULT
-        printf "%s\n" "Hostname HTTPAnswerCode RedirectedURL RedirectedURLHTTPAnswerCode AkamaiCNAMED AkamaiDNS ZoneApexMapping" >> $RESULT
+        printf "%s\n" "hostname httpAnswerCode redirectedUrl redirectedUrlHttpAnswerCode akamaiCnamed akamaiDns zoneApexMapping" >> $RESULT
         clear
 
     # Loop for each line the input file
